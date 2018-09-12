@@ -1,7 +1,7 @@
 <html>
   <body>
     Email address: <?php echo $_POST["em"]; ?>
-    </br>
+    <br/>
     Log out
   </body>
 </html>
